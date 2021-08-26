@@ -7,7 +7,7 @@ Amplify.configure(awsconfig);
 function App() {
   return (
     <div className="App">
-     <h1>Hello Amplify World</h1>
+     <h1>Hello Amplify cli World</h1>
     </div>
   );
 }
